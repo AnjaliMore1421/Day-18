@@ -83,7 +83,6 @@ It makes API calls easier to understand compared to chained promises.
 
 # 2) Axios Interceptors
 
-## Deep Theory
 Axios Interceptors are functions that allow us to **intercept requests and responses before they are handled by `then()` or `catch()`**.
 
 They are mainly used for:
